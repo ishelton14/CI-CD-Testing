@@ -4,3 +4,5 @@ def a():
 
 def b():
     print("b")
+
+c()
