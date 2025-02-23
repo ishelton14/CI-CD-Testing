@@ -4,5 +4,3 @@ def a():
 
 def b():
     print("b")
-
-print('syntax error)
