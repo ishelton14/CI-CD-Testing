@@ -4,4 +4,3 @@ def a():
 
 def b():
     print('b')
-
