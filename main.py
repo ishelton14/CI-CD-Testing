@@ -1,6 +1,2 @@
-def a():
-    print('a')
-
-
-def b():
-    print("b")
+def multiply_numbers(x,y):
+	return x*y
