@@ -1,2 +1,3 @@
 def multiply_numbers(x, y):
-    return x * y * 2
+    """Method to multiply the two arguments passed."""
+    return x * y
