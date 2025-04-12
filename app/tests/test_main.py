@@ -1,4 +1,4 @@
-from main import multiply_numbers
+from app.main import multiply_numbers
 
 
 def test_multiply_numbers():
